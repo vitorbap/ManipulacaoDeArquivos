@@ -1,0 +1,7 @@
+C:\Users\saovbapt\source\repos\ManipulacaoDeArquivos2\ManipulacaoDeArquivos2\bin\Debug\ManipulacaoDeArquivos2.exe.config
+C:\Users\saovbapt\source\repos\ManipulacaoDeArquivos2\ManipulacaoDeArquivos2\bin\Debug\ManipulacaoDeArquivos2.exe
+C:\Users\saovbapt\source\repos\ManipulacaoDeArquivos2\ManipulacaoDeArquivos2\bin\Debug\ManipulacaoDeArquivos2.pdb
+C:\Users\saovbapt\source\repos\ManipulacaoDeArquivos2\ManipulacaoDeArquivos2\obj\Debug\ManipulacaoDeArquivos2.csproj.AssemblyReference.cache
+C:\Users\saovbapt\source\repos\ManipulacaoDeArquivos2\ManipulacaoDeArquivos2\obj\Debug\ManipulacaoDeArquivos2.csproj.CoreCompileInputs.cache
+C:\Users\saovbapt\source\repos\ManipulacaoDeArquivos2\ManipulacaoDeArquivos2\obj\Debug\ManipulacaoDeArquivos2.exe
+C:\Users\saovbapt\source\repos\ManipulacaoDeArquivos2\ManipulacaoDeArquivos2\obj\Debug\ManipulacaoDeArquivos2.pdb
